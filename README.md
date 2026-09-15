@@ -1,0 +1,1 @@
+.exe находится в Releases
